@@ -4,7 +4,7 @@
 
 
 <h1 align='center'> 
- <b> PROYECTO INDIVIDUAL 1 (DATA ANALYTICS)</b> 
+ <b> PROYECTO INDIVIDUAL 2 (DATA ANALYTICS)</b> 
 </h1>
 
 Bienvenidos a la presentación de mi segundo proyecto individual para la carrera de Data Science en Henry.
