@@ -1,3 +1,5 @@
+![DATA ANALYTICS](./assets/DA.jpg)
+
 # PROYECTO INDIVIDUAL 1 (DATA ANALYTICS)
 
 Bienvenidos a la presentación de mi segundo proyecto individual para la carrera de Data Science en Henry.
