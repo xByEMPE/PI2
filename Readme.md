@@ -1,6 +1,11 @@
-![DATA ANALYTICS](./assets/DA.jpg)
+<p align='center'>
+<img src ="https://assets.datamation.com/uploads/2023/08/dm08172023-what-is-data-analytics-1024x670.png">
+<p>
 
-# PROYECTO INDIVIDUAL 1 (DATA ANALYTICS)
+
+<h1 align='center'> 
+ <b> PROYECTO INDIVIDUAL 1 (DATA ANALYTICS)</b> 
+</h1>
 
 Bienvenidos a la presentación de mi segundo proyecto individual para la carrera de Data Science en Henry.
 En esta ocasión abordaremos el rol de un Data Analytics para la interpretación de los datos, poder contar que nos dicen, que podemos extraer de la información visual que se presenta por medio de los Dashboard.
