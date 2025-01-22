@@ -46,6 +46,24 @@ Aunque en los datos provistos comprenden varios archivos excel con varias hojas 
 
 Estos son los archivos con los que estuve trabajando para el desarrollo de este proyecto.
 
-Muy bien
+Muy bien, ahora viene el proceso de un pequeño ETL, si bien los datos practicamente no requieren limpiezas o transformaciones, si que podemos realizar un analisis pequeño para poder encontar  búsqueda de valores faltantes, valores atípicos/extremos u outliers y registros duplicados.
+Este pequeño analisis se encuentran dentro de los archivos EDA correspondientes.
+
+Los EDAs los pueden encontrar dentro de la carpeta **notebooks** e ir corriendo cada bloque de codigo para realizar los pasos correspondientes.
+
+## KPI 
+Para la realizacion de los KPI he decidido tomar como mas relevantes el acceso a internet por provincias, la cobertura de conectividad por provincias, la telefonia movil y el acceso de television, considero a mi punto de vista que estos son los que mas relevancia le encuentro principalmente por los grandes cambios tecnologicos y de conectividad se refieren.
+
+En cada uno de los KPI detallo puntos clave, factores que pueden influir en los resultados obtenidos y posibles tomas de decisiones que pueden mejorar, matener o ganar en refencia a lo que se analiza.
+
+Cada KPI se encuentra dentro de la carpeta llamada **KPI** en donde podra ver con mas detalle los resultados.
+El uso de estos KPI a diferencia de otras métricas es que dan una métrica clave para medir el progreso hacia un objetivo estratégico de algún proyecto o negocio.
+Estos tienen un enfoque limitado y priorizado, pues proporcionan una visión clara del éxito en un área clave. 
+En resumen, un KPI requiere de un análisi cuidadoso para asegurarse de que reflejen lso objetivos estratégicos.
+
+## Dashboard
+El dashboard abarca de manera enfatizada los KPI que se desarrollaron, ayudando a comprender mejor los puntos claves oestratégicos. 
+
+Proveen una mejor comprensión de lo que se focalizan dichos KPI.
 
 

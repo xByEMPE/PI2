@@ -4,3 +4,4 @@ seaborn
 geopandas
 shapely
 matplotlib
+streamlit
